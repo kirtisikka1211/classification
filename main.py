@@ -7,7 +7,7 @@ import io
 
 app = FastAPI(title="Cats vs Dogs Classifier")
 
-# Load model (saved earlier in Colab)
+# Load model (saved earlier )
 model = tf.keras.models.load_model("cats_dogs_mobilenetv2.keras")
 
 IMG_HEIGHT = 150
