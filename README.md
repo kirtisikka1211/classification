@@ -2,20 +2,6 @@
 
 A simple image classification application that classifies cats vs dogs using deep learning.
 
-## Demo
-
-### Sample Results
-![Sample Classification Results](image.png)
-*Example predictions showing cat and dog classifications with confidence scores*
-
-### Video Demo
-
-
-https://github.com/user-attachments/assets/35b14be8-276a-4982-98bc-d83d04a962b5
-
-
-*Click to watch the classification demo*
-
 ## Requirements
 
 ```bash
@@ -72,5 +58,19 @@ curl -X POST "http://localhost:8000/predict/" \
      -H "Content-Type: multipart/form-data" \
      -F "file=@your_image.jpg"
 ```
+## Demo
+
+### Sample Results
+![Sample Classification Results](image.png)
+*Example predictions showing cat and dog classifications with confidence scores*
+
+### Video Demo
+
+
+https://github.com/user-attachments/assets/35b14be8-276a-4982-98bc-d83d04a962b5
+
+
+*Click to watch the classification demo*
+
 
 
