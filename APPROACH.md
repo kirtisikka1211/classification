@@ -121,4 +121,4 @@ base_model.trainable = False
 
 ## Conclusion
 
-This approach demonstrates practical application of modern deep learning techniques while maintaining simplicity and efficiency. The combination of transfer learning, efficient preprocessing, and production-ready deployment makes it suitable for both educational purposes and real-world applications.
+This approach demonstrates practical application of modern deep learning techniques while maintaining simplicity and efficiency. T
